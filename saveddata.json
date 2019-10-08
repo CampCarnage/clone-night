@@ -1923,7 +1923,7 @@
         },
         {
           "abbreviation" : "GTU",
-          "prestige" : "95",
+          "prestige" : "84",
           "state" : "Georgia",
           "name" : "Georgia Tech",
           "headCoach" : {
@@ -2137,7 +2137,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "86",
+          "prestige" : "82",
           "state" : "Florida",
           "name" : "UCF",
           "headCoach" : {
@@ -2160,7 +2160,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "70",
+          "prestige" : "67",
           "state" : "Ohio",
           "name" : "Cincinnati",
           "headCoach" : {
@@ -2183,7 +2183,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "72",
+          "prestige" : "70",
           "state" : "Tennessee",
           "name" : "Memphis",
           "headCoach" : {
