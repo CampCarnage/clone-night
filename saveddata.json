@@ -11,16 +11,16 @@
             "contractLength" : "5",
             "startYear" : "2019",
             "age" : "54",
-            "ratOff" : "85",
+            "ratOff" : "80",
             "cumulativePrestige" : "14",
-            "ratDef" : "77",
+            "ratDef" : "88",
             "homeState" : "Indiana",
             "ratPot" : "82",
             "ratTalent" : "95",
             "baselinePrestige" : "85",
             "ratDiscipline" : "76",
             "ratOvr" : "83",
-            "name" : "Connor Vanderheyden",
+            "name" : "Kirby Smart",
             "contractYear" : "0"
           },
           "rival" : "UK"
@@ -80,9 +80,9 @@
             "contractLength" : "3",
             "startYear" : "2019",
             "age" : "37",
-            "ratOff" : "84",
+            "ratOff" : "67",
             "cumulativePrestige" : "6",
-            "ratDef" : "71",
+            "ratDef" : "95",
             "homeState" : "California",
             "ratPot" : "76",
             "ratTalent" : "95",
@@ -247,18 +247,18 @@
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
-            "age" : "31",
-            "ratOff" : "65",
+            "age" : "60",
+            "ratOff" : "85",
             "cumulativePrestige" : "4",
-            "ratDef" : "88",
+            "ratDef" : "99",
             "homeState" : "Vermont",
-            "ratPot" : "76",
+            "ratPot" : "95",
             "ratTalent" : "95",
             "baselinePrestige" : "90",
-            "ratDiscipline" : "74",
-            "ratOvr" : "80",
-            "name" : "Kendall Stutler",
-            "contractYear" : "3"
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Nick Saban",
+            "contractYear" : "10"
           },
           "rival" : "LSU"
         },
@@ -294,7 +294,7 @@
             "contractLength" : "4",
             "startYear" : "2019",
             "age" : "40",
-            "ratOff" : "74",
+            "ratOff" : "88",
             "cumulativePrestige" : "8",
             "ratDef" : "67",
             "homeState" : "Rhode Island",
@@ -303,8 +303,8 @@
             "baselinePrestige" : "80",
             "ratDiscipline" : "55",
             "ratOvr" : "72",
-            "name" : "Aaron Providence",
-            "contractYear" : "0"
+            "name" : "Jimbo Fisher",
+            "contractYear" : "8"
           },
           "rival" : "ARK"
         },
@@ -1433,19 +1433,19 @@
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "49",
-            "ratOff" : "80",
+            "ratOff" : "95",
             "cumulativePrestige" : "4",
-            "ratDef" : "66",
+            "ratDef" : "60",
             "homeState" : "Connecticut",
             "ratPot" : "51",
             "ratTalent" : "95",
             "baselinePrestige" : "70",
             "ratDiscipline" : "80",
             "ratOvr" : "80",
-            "name" : "Trip Summers",
+            "name" : "Lincoln Riley",
             "contractYear" : "4"
           },
-          "rival" : "TTU"
+          "rival" : "UT"
         },
         {
           "abbreviation" : "UT",
@@ -1456,19 +1456,19 @@
             "contractLength" : "6",
             "startYear" : "2020",
             "age" : "45",
-            "ratOff" : "69",
+            "ratOff" : "80",
             "cumulativePrestige" : "0",
-            "ratDef" : "62",
+            "ratDef" : "75",
             "homeState" : "Kansas",
             "ratPot" : "93",
-            "ratTalent" : "63",
+            "ratTalent" : "80",
             "baselinePrestige" : "60",
             "ratDiscipline" : "75",
             "ratOvr" : "67",
-            "name" : "DeAndre Bode",
-            "contractYear" : "0"
+            "name" : "Tom Herman",
+            "contractYear" : "3"
           },
-          "rival" : "TCU"
+          "rival" : "OU"
         },
         {
           "abbreviation" : "ISU",
@@ -1491,7 +1491,7 @@
             "name" : "Jamal Lambes",
             "contractYear" : "3"
           },
-          "rival" : "BAY"
+          "rival" : "TTU"
         },
         {
           "abbreviation" : "TCU",
@@ -1514,7 +1514,7 @@
             "name" : "Trent Marvel",
             "contractYear" : "0"
           },
-          "rival" : "UT"
+          "rival" : "BAY"
         },
         {
           "abbreviation" : "BAY",
@@ -1537,7 +1537,7 @@
             "name" : "Nic Clark",
             "contractYear" : "4"
           },
-          "rival" : "ISU"
+          "rival" : "TCU"
         },
         {
           "abbreviation" : "KSU",
@@ -1583,7 +1583,7 @@
             "name" : "Wm Fiala",
             "contractYear" : "4"
           },
-          "rival" : "OU"
+          "rival" : "ISU"
         },
         {
           "abbreviation" : "OKSU",
@@ -2611,7 +2611,7 @@
       "confTeams" : [
         {
           "abbreviation" : "ND",
-          "prestige" : "63",
+          "prestige" : "86",
           "state" : "Indiana",
           "name" : "Notre Dame",
           "headCoach" : {
