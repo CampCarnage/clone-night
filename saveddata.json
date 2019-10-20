@@ -43,7 +43,7 @@
             "baselinePrestige" : "90",
             "ratDiscipline" : "73",
             "ratOvr" : "84",
-            "name" : "Irvin Dammad",
+            "name" : "Dan Mullen",
             "contractYear" : "2"
           },
           "rival" : "MIZZ"
@@ -66,7 +66,7 @@
             "baselinePrestige" : "80",
             "ratDiscipline" : "57",
             "ratOvr" : "68",
-            "name" : "Joshua Dasher",
+            "name" : "Mark Stoops",
             "contractYear" : "3"
           },
           "rival" : "UGA"
@@ -89,7 +89,7 @@
             "baselinePrestige" : "75",
             "ratDiscipline" : "70",
             "ratOvr" : "80",
-            "name" : "Nicco Brogglin",
+            "name" : "Will Muschamp",
             "contractYear" : "0"
           },
           "rival" : "GSU"
@@ -280,7 +280,7 @@
             "baselinePrestige" : "90",
             "ratDiscipline" : "50",
             "ratOvr" : "72",
-            "name" : "Victor Woelk",
+            "name" : "Ed Orgeron",
             "contractYear" : "4"
           },
           "rival" : "ALA"
@@ -349,7 +349,7 @@
             "baselinePrestige" : "70",
             "ratDiscipline" : "80",
             "ratOvr" : "78",
-            "name" : "Mario Sykes",
+            "name" : "Gus Bradley",
             "contractYear" : "2"
           },
           "rival" : "USA"
@@ -484,7 +484,7 @@
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2019",
-            "age" : "45",
+            "age" : "65",
             "ratOff" : "70",
             "cumulativePrestige" : "4",
             "ratDef" : "76",
@@ -494,7 +494,7 @@
             "baselinePrestige" : "90",
             "ratDiscipline" : "79",
             "ratOvr" : "76",
-            "name" : "TJ Easterbrooks",
+            "name" : "Urban Meyer",
             "contractYear" : "0"
           },
           "rival" : "OHIO"
@@ -517,8 +517,8 @@
             "baselinePrestige" : "85",
             "ratDiscipline" : "47",
             "ratOvr" : "76",
-            "name" : "Jalen Sethi",
-            "contractYear" : "2"
+            "name" : "Jim Harbaugh",
+            "contractYear" : "1"
           },
           "rival" : "MARY"
         },
@@ -715,7 +715,7 @@
       "confTeams" : [
         {
           "abbreviation" : "NW",
-          "prestige" : "76",
+          "prestige" : "75",
           "state" : "Illinois",
           "name" : "Northwestern",
           "headCoach" : {
@@ -738,7 +738,7 @@
         },
         {
           "abbreviation" : "WIS",
-          "prestige" : "85",
+          "prestige" : "87",
           "state" : "Wisconsin",
           "name" : "Wisconsin",
           "headCoach" : {
@@ -761,7 +761,7 @@
         },
         {
           "abbreviation" : "PUR",
-          "prestige" : "73",
+          "prestige" : "54",
           "state" : "Indiana",
           "name" : "Purdue",
           "headCoach" : {
@@ -784,7 +784,7 @@
         },
         {
           "abbreviation" : "IOWA",
-          "prestige" : "79",
+          "prestige" : "80",
           "state" : "Iowa",
           "name" : "Iowa",
           "headCoach" : {
@@ -807,7 +807,7 @@
         },
         {
           "abbreviation" : "NEB",
-          "prestige" : "82",
+          "prestige" : "67",
           "state" : "Nebraska",
           "name" : "Nebraska",
           "headCoach" : {
@@ -823,14 +823,14 @@
             "baselinePrestige" : "80",
             "ratDiscipline" : "64",
             "ratOvr" : "79",
-            "name" : "Rickey Nilges",
+            "name" : "Scott Frost",
             "contractYear" : "1"
           },
           "rival" : "NW"
         },
         {
           "abbreviation" : "MINN",
-          "prestige" : "73",
+          "prestige" : "70",
           "state" : "Minnesota",
           "name" : "Minnesota",
           "headCoach" : {
@@ -853,7 +853,7 @@
         },
         {
           "abbreviation" : "ILL",
-          "prestige" : "63",
+          "prestige" : "47",
           "state" : "Illinois",
           "name" : "Illinois",
           "headCoach" : {
@@ -876,7 +876,7 @@
         },
         {
           "abbreviation" : "BALL",
-          "prestige" : "48",
+          "prestige" : "35",
           "state" : "Ohio",
           "name" : "Ball State",
           "headCoach" : {
@@ -899,7 +899,7 @@
         },
         {
           "abbreviation" : "CMU",
-          "prestige" : "48",
+          "prestige" : "46",
           "state" : "Michigan",
           "name" : "Central Michigan",
           "headCoach" : {
@@ -922,7 +922,7 @@
         },
         {
           "abbreviation" : "WMU",
-          "prestige" : "48",
+          "prestige" : "61",
           "state" : "Michigan",
           "name" : "Western Michigan",
           "headCoach" : {
