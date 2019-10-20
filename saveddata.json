@@ -1426,7 +1426,7 @@
       "confTeams" : [
         {
           "abbreviation" : "OU",
-          "prestige" : "91",
+          "prestige" : "90",
           "state" : "Oklahoma",
           "name" : "Oklahoma",
           "headCoach" : {
@@ -1449,7 +1449,7 @@
         },
         {
           "abbreviation" : "UT",
-          "prestige" : "86",
+          "prestige" : "71",
           "state" : "Texas",
           "name" : "Texas",
           "headCoach" : {
@@ -1472,7 +1472,7 @@
         },
         {
           "abbreviation" : "ISU",
-          "prestige" : "77",
+          "prestige" : "60",
           "state" : "Iowa",
           "name" : "Iowa State",
           "headCoach" : {
@@ -1488,14 +1488,14 @@
             "baselinePrestige" : "70",
             "ratDiscipline" : "57",
             "ratOvr" : "73",
-            "name" : "Jamal Lambes",
+            "name" : "Matt Campbell",
             "contractYear" : "3"
           },
           "rival" : "TTU"
         },
         {
           "abbreviation" : "TCU",
-          "prestige" : "81",
+          "prestige" : "83",
           "state" : "Texas",
           "name" : "TCU",
           "headCoach" : {
@@ -1511,14 +1511,14 @@
             "baselinePrestige" : "75",
             "ratDiscipline" : "84",
             "ratOvr" : "82",
-            "name" : "Trent Marvel",
-            "contractYear" : "0"
+            "name" : "Gary Patterson",
+            "contractYear" : "4"
           },
           "rival" : "BAY"
         },
         {
           "abbreviation" : "BAY",
-          "prestige" : "74",
+          "prestige" : "70",
           "state" : "Texas",
           "name" : "Baylor",
           "headCoach" : {
@@ -1534,7 +1534,7 @@
             "baselinePrestige" : "75",
             "ratDiscipline" : "85",
             "ratOvr" : "79",
-            "name" : "Nic Clark",
+            "name" : "Matt Rhule",
             "contractYear" : "4"
           },
           "rival" : "TCU"
@@ -1564,7 +1564,7 @@
         },
         {
           "abbreviation" : "TTU",
-          "prestige" : "72",
+          "prestige" : "62",
           "state" : "Texas",
           "name" : "Texas Tech",
           "headCoach" : {
@@ -1603,7 +1603,7 @@
             "baselinePrestige" : "50",
             "ratDiscipline" : "51",
             "ratOvr" : "62",
-            "name" : "Hans Caspers",
+            "name" : "Mike Gundy",
             "contractYear" : "2"
           },
           "rival" : "KSU"
@@ -1633,24 +1633,24 @@
         },
         {
           "abbreviation" : "KU",
-          "prestige" : "53",
+          "prestige" : "36",
           "state" : "Kansas",
           "name" : "Kansas",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "32",
-            "ratOff" : "55",
+            "ratOff" : "75",
             "cumulativePrestige" : "-14",
-            "ratDef" : "65",
+            "ratDef" : "88",
             "homeState" : "North Dakota",
             "ratPot" : "85",
             "ratTalent" : "95",
             "baselinePrestige" : "55",
             "ratDiscipline" : "73",
             "ratOvr" : "72",
-            "name" : "Michael Pelaez",
-            "contractYear" : "3"
+            "name" : "Les Miles",
+            "contractYear" : "10"
           },
           "rival" : "WVU"
         }
