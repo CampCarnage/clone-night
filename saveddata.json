@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UGA",
-          "prestige" : "91",
+          "prestige" : "87",
           "state" : "Georgia",
           "name" : "Georgia",
           "headCoach" : {
@@ -27,7 +27,7 @@
         },
         {
           "abbreviation" : "UF",
-          "prestige" : "88",
+          "prestige" : "79",
           "state" : "Florida",
           "name" : "Florida",
           "headCoach" : {
@@ -50,7 +50,7 @@
         },
         {
           "abbreviation" : "UK",
-          "prestige" : "78",
+          "prestige" : "66",
           "state" : "Kentucky",
           "name" : "Kentucky",
           "headCoach" : {
@@ -73,7 +73,7 @@
         },
         {
           "abbreviation" : "UoSC",
-          "prestige" : "75",
+          "prestige" : "67",
           "state" : "South Carolina",
           "name" : "South Carolina",
           "headCoach" : {
@@ -96,7 +96,7 @@
         },
         {
           "abbreviation" : "MIZZ",
-          "prestige" : "81",
+          "prestige" : "70",
           "state" : "Missouri",
           "name" : "Missouri",
           "headCoach" : {
@@ -119,7 +119,7 @@
         },
         {
           "abbreviation" : "VAN",
-          "prestige" : "69",
+          "prestige" : "57",
           "state" : "Tennessee",
           "name" : "Vanderbilt",
           "headCoach" : {
@@ -142,7 +142,7 @@
         },
         {
           "abbreviation" : "TEN",
-          "prestige" : "73",
+          "prestige" : "72",
           "state" : "Tennessee",
           "name" : "Tennessee",
           "headCoach" : {
@@ -165,7 +165,7 @@
         },
         {
           "abbreviation" : "GSU",
-          "prestige" : "48",
+          "prestige" : "55",
           "state" : "Georgia",
           "name" : "Georgia Southern",
           "headCoach" : {
@@ -188,7 +188,7 @@
         },
         {
           "abbreviation" : "CC",
-          "prestige" : "40",
+          "prestige" : "29",
           "state" : "North Carolina",
           "name" : "Coastal Carolina",
           "headCoach" : {
@@ -211,7 +211,7 @@
         },
         {
           "abbreviation" : "GEOS",
-          "prestige" : "50",
+          "prestige" : "35",
           "state" : "Georgia",
           "name" : "Georgia State",
           "headCoach" : {
@@ -264,7 +264,7 @@
         },
         {
           "abbreviation" : "LSU",
-          "prestige" : "90",
+          "prestige" : "88",
           "state" : "Louisiana",
           "name" : "LSU",
           "headCoach" : {
@@ -287,7 +287,7 @@
         },
         {
           "abbreviation" : "TAMU",
-          "prestige" : "84",
+          "prestige" : "80",
           "state" : "Texas",
           "name" : "Texas A&M",
           "headCoach" : {
@@ -333,7 +333,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "86",
+          "prestige" : "84",
           "state" : "Alabama",
           "name" : "Auburn",
           "headCoach" : {
@@ -356,7 +356,7 @@
         },
         {
           "abbreviation" : "MISS",
-          "prestige" : "78",
+          "prestige" : "74",
           "state" : "Mississippi",
           "name" : "Ole Miss",
           "headCoach" : {
@@ -379,7 +379,7 @@
         },
         {
           "abbreviation" : "ARK",
-          "prestige" : "72",
+          "prestige" : "65",
           "state" : "Arkansas",
           "name" : "Arkansas",
           "headCoach" : {
@@ -402,7 +402,7 @@
         },
         {
           "abbreviation" : "TROY",
-          "prestige" : "45",
+          "prestige" : "58",
           "state" : "Alabama",
           "name" : "Troy",
           "headCoach" : {
@@ -425,7 +425,7 @@
         },
         {
           "abbreviation" : "USA",
-          "prestige" : "41",
+          "prestige" : "39",
           "state" : "Alabama",
           "name" : "South Alabama",
           "headCoach" : {
@@ -448,7 +448,7 @@
         },
         {
           "abbreviation" : "TSU",
-          "prestige" : "36",
+          "prestige" : "32",
           "state" : "Texas",
           "name" : "Texas state",
           "headCoach" : {
@@ -478,7 +478,7 @@
       "confTeams" : [
         {
           "abbreviation" : "OSU",
-          "prestige" : "95",
+          "prestige" : "94",
           "state" : "Ohio",
           "name" : "Ohio State",
           "headCoach" : {
@@ -501,7 +501,7 @@
         },
         {
           "abbreviation" : "UM",
-          "prestige" : "88",
+          "prestige" : "84",
           "state" : "Michigan",
           "name" : "Michigan",
           "headCoach" : {
@@ -524,7 +524,7 @@
         },
         {
           "abbreviation" : "MSU",
-          "prestige" : "82",
+          "prestige" : "80",
           "state" : "Michigan",
           "name" : "Michigan State",
           "headCoach" : {
@@ -547,7 +547,7 @@
         },
         {
           "abbreviation" : "PSU",
-          "prestige" : "85",
+          "prestige" : "81",
           "state" : "Pennsylvania",
           "name" : "Penn State",
           "headCoach" : {
@@ -570,7 +570,7 @@
         },
         {
           "abbreviation" : "MARY",
-          "prestige" : "69",
+          "prestige" : "57",
           "state" : "Maryland",
           "name" : "Maryland",
           "headCoach" : {
@@ -593,7 +593,7 @@
         },
         {
           "abbreviation" : "IND",
-          "prestige" : "66",
+          "prestige" : "59",
           "state" : "Indiana",
           "name" : "Indiana",
           "headCoach" : {
@@ -616,7 +616,7 @@
         },
         {
           "abbreviation" : "RUT",
-          "prestige" : "59",
+          "prestige" : "45",
           "state" : "New York",
           "name" : "Rutgers",
           "headCoach" : {
@@ -639,7 +639,7 @@
         },
         {
           "abbreviation" : "OHIO",
-          "prestige" : "50",
+          "prestige" : "57",
           "state" : "Ohio",
           "name" : "Ohio",
           "headCoach" : {
@@ -662,7 +662,7 @@
         },
         {
           "abbreviation" : "AK",
-          "prestige" : "45",
+          "prestige" : "43",
           "state" : "Ohio",
           "name" : "Akron",
           "headCoach" : {
@@ -685,7 +685,7 @@
         },
         {
           "abbreviation" : "MOH",
-          "prestige" : "44",
+          "prestige" : "40",
           "state" : "Ohio",
           "name" : "Miami Oh",
           "headCoach" : {
