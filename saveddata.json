@@ -531,16 +531,16 @@
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "44",
-            "ratOff" : "78",
+            "ratOff" : "60",
             "cumulativePrestige" : "4",
-            "ratDef" : "72",
+            "ratDef" : "95",
             "homeState" : "Illinois",
             "ratPot" : "93",
             "ratTalent" : "95",
             "baselinePrestige" : "65",
             "ratDiscipline" : "73",
             "ratOvr" : "79",
-            "name" : "Addison Daul",
+            "name" : "Mark Dantanio",
             "contractYear" : "2"
           },
           "rival" : "AK"
@@ -754,7 +754,7 @@
             "baselinePrestige" : "70",
             "ratDiscipline" : "77",
             "ratOvr" : "81",
-            "name" : "Arthur Ebesugawa",
+            "name" : "Paul Chryst",
             "contractYear" : "4"
           },
           "rival" : "CMU"
@@ -768,7 +768,7 @@
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "34",
-            "ratOff" : "84",
+            "ratOff" : "88",
             "cumulativePrestige" : "9",
             "ratDef" : "83",
             "homeState" : "Kansas",
@@ -777,7 +777,7 @@
             "baselinePrestige" : "90",
             "ratDiscipline" : "45",
             "ratOvr" : "72",
-            "name" : "Terence Byone",
+            "name" : "Jeff Brohm",
             "contractYear" : "2"
           },
           "rival" : "IOWA"
@@ -824,7 +824,7 @@
             "ratDiscipline" : "64",
             "ratOvr" : "79",
             "name" : "Scott Frost",
-            "contractYear" : "1"
+            "contractYear" : "3"
           },
           "rival" : "NW"
         },
@@ -869,7 +869,7 @@
             "baselinePrestige" : "60",
             "ratDiscipline" : "61",
             "ratOvr" : "69",
-            "name" : "Michael Eschete",
+            "name" : "Lovie Smith",
             "contractYear" : "2"
           },
           "rival" : "WMU"
@@ -952,7 +952,7 @@
       "confTeams" : [
         {
           "abbreviation" : "WASH",
-          "prestige" : "88",
+          "prestige" : "84",
           "state" : "Washington",
           "name" : "Washington",
           "headCoach" : {
@@ -968,37 +968,37 @@
             "baselinePrestige" : "90",
             "ratDiscipline" : "79",
             "ratOvr" : "84",
-            "name" : "Bryson Tremble",
+            "name" : "Chris Peterson",
             "contractYear" : "3"
           },
           "rival" : "STAN"
         },
         {
           "abbreviation" : "WSU",
-          "prestige" : "78",
+          "prestige" : "76",
           "state" : "Washington",
           "name" : "Wazzu",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "53",
-            "ratOff" : "82",
+            "ratOff" : "95",
             "cumulativePrestige" : "9",
-            "ratDef" : "73",
+            "ratDef" : "60",
             "homeState" : "Florida",
             "ratPot" : "97",
-            "ratTalent" : "85",
+            "ratTalent" : "80",
             "baselinePrestige" : "85",
             "ratDiscipline" : "85",
             "ratOvr" : "81",
-            "name" : "Pierre Shininger",
+            "name" : "Mike Leach",
             "contractYear" : "2"
           },
           "rival" : "BSU"
         },
         {
           "abbreviation" : "STAN",
-          "prestige" : "84",
+          "prestige" : "86",
           "state" : "California",
           "name" : "Stanford",
           "headCoach" : {
@@ -1021,7 +1021,7 @@
         },
         {
           "abbreviation" : "ORE",
-          "prestige" : "86",
+          "prestige" : "76",
           "state" : "Oregon",
           "name" : "Oregon",
           "headCoach" : {
@@ -1044,7 +1044,7 @@
         },
         {
           "abbreviation" : "CAL",
-          "prestige" : "78",
+          "prestige" : "65",
           "state" : "California",
           "name" : "California",
           "headCoach" : {
@@ -1067,7 +1067,7 @@
         },
         {
           "abbreviation" : "ORES",
-          "prestige" : "65",
+          "prestige" : "44",
           "state" : "Oregon",
           "name" : "Oregon State",
           "headCoach" : {
@@ -1090,7 +1090,7 @@
         },
         {
           "abbreviation" : "SAN",
-          "prestige" : "47",
+          "prestige" : "66",
           "state" : "California",
           "name" : "San Diego St",
           "headCoach" : {
@@ -1113,7 +1113,7 @@
         },
         {
           "abbreviation" : "BSU",
-          "prestige" : "75",
+          "prestige" : "80",
           "state" : "Idaho",
           "name" : "Boise State",
           "headCoach" : {
@@ -1136,7 +1136,7 @@
         },
         {
           "abbreviation" : "HAW",
-          "prestige" : "56",
+          "prestige" : "38",
           "state" : "Hawaii",
           "name" : "Hawaii",
           "headCoach" : {
@@ -1159,7 +1159,7 @@
         },
         {
           "abbreviation" : "SJSU",
-          "prestige" : "35",
+          "prestige" : "36",
           "state" : "California",
           "name" : "San Jose State",
           "headCoach" : {
@@ -1189,7 +1189,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UTE",
-          "prestige" : "78",
+          "prestige" : "80",
           "state" : "Utah",
           "name" : "Utah",
           "headCoach" : {
@@ -1212,7 +1212,7 @@
         },
         {
           "abbreviation" : "USC",
-          "prestige" : "82",
+          "prestige" : "81",
           "state" : "California",
           "name" : "USC",
           "headCoach" : {
@@ -1228,14 +1228,14 @@
             "baselinePrestige" : "80",
             "ratDiscipline" : "79",
             "ratOvr" : "75",
-            "name" : "Antonio Battistoni",
+            "name" : "Clay Helton",
             "contractYear" : "4"
           },
           "rival" : "ASU"
         },
         {
           "abbreviation" : "ASU",
-          "prestige" : "76",
+          "prestige" : "69",
           "state" : "Arizona",
           "name" : "Arizona State",
           "headCoach" : {
@@ -1251,14 +1251,14 @@
             "baselinePrestige" : "75",
             "ratDiscipline" : "66",
             "ratOvr" : "70",
-            "name" : "Tre Moote",
+            "name" : "Herm Edwards",
             "contractYear" : "3"
           },
           "rival" : "USC"
         },
         {
           "abbreviation" : "UAZ",
-          "prestige" : "67",
+          "prestige" : "61",
           "state" : "Arizona",
           "name" : "Arizona",
           "headCoach" : {
@@ -1281,7 +1281,7 @@
         },
         {
           "abbreviation" : "CU",
-          "prestige" : "74",
+          "prestige" : "55",
           "state" : "Colorado",
           "name" : "Colorado",
           "headCoach" : {
@@ -1304,30 +1304,30 @@
         },
         {
           "abbreviation" : "UCLA",
-          "prestige" : "71",
+          "prestige" : "67",
           "state" : "California",
           "name" : "UCLA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
-            "age" : "38",
-            "ratOff" : "70",
+            "age" : "53",
+            "ratOff" : "86",
             "cumulativePrestige" : "-14",
             "ratDef" : "59",
             "homeState" : "Washington",
-            "ratPot" : "70",
+            "ratPot" : "64",
             "ratTalent" : "68",
             "baselinePrestige" : "75",
             "ratDiscipline" : "61",
             "ratOvr" : "64",
-            "name" : "Maurice Housand",
+            "name" : "Chip Kelly",
             "contractYear" : "3"
           },
           "rival" : "UTE"
         },
         {
           "abbreviation" : "FRES",
-          "prestige" : "63",
+          "prestige" : "55",
           "state" : "California",
           "name" : "Fresno State",
           "headCoach" : {
@@ -1350,7 +1350,7 @@
         },
         {
           "abbreviation" : "USU",
-          "prestige" : "47",
+          "prestige" : "59",
           "state" : "Utah",
           "name" : "Utah State",
           "headCoach" : {
@@ -1373,7 +1373,7 @@
         },
         {
           "abbreviation" : "CSU",
-          "prestige" : "48",
+          "prestige" : "55",
           "state" : "Colorado",
           "name" : "Colorado State",
           "headCoach" : {
@@ -1396,7 +1396,7 @@
         },
         {
           "abbreviation" : "NM",
-          "prestige" : "53",
+          "prestige" : "43",
           "state" : "New Mexico",
           "name" : "New Mexico",
           "headCoach" : {
