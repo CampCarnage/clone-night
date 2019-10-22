@@ -2045,17 +2045,17 @@
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "32",
-            "ratOff" : "48",
-            "cumulativePrestige" : "-1",
-            "ratDef" : "62",
+            "ratOff" : "72",
+            "cumulativePrestige" : "+2",
+            "ratDef" : "72",
             "homeState" : "Indiana",
-            "ratPot" : "54",
+            "ratPot" : "95",
             "ratTalent" : "95",
             "baselinePrestige" : "55",
             "ratDiscipline" : "86",
             "ratOvr" : "72",
-            "name" : "Joseph Beish",
-            "contractYear" : "3"
+            "name" : "Mack Brown",
+            "contractYear" : "4"
           },
           "rival" : "MTW"
         },
