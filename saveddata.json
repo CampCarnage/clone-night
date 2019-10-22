@@ -1193,20 +1193,20 @@
           "state" : "Utah",
           "name" : "Utah",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "6",
             "startYear" : "2019",
             "age" : "31",
             "ratOff" : "79",
             "cumulativePrestige" : "2",
-            "ratDef" : "66",
+            "ratDef" : "88",
             "homeState" : "Arizona",
             "ratPot" : "88",
             "ratTalent" : "95",
             "baselinePrestige" : "70",
             "ratDiscipline" : "61",
             "ratOvr" : "75",
-            "name" : "Jermaine McCurley",
-            "contractYear" : "0"
+            "name" : "Kyle Whittingham",
+            "contractYear" : "4"
           },
           "rival" : "UCLA"
         },
@@ -1262,7 +1262,7 @@
           "state" : "Arizona",
           "name" : "Arizona",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "3",
             "startYear" : "2019",
             "age" : "55",
             "ratOff" : "71",
@@ -1274,8 +1274,8 @@
             "baselinePrestige" : "60",
             "ratDiscipline" : "83",
             "ratOvr" : "80",
-            "name" : "TJ Herrand",
-            "contractYear" : "0"
+            "name" : "Kevin Sumlin",
+            "contractYear" : "1"
           },
           "rival" : "NM"
         },
@@ -1557,7 +1557,7 @@
             "baselinePrestige" : "70",
             "ratDiscipline" : "47",
             "ratOvr" : "71",
-            "name" : "Eddy Stoskopf",
+            "name" : "Chris Klieman",
             "contractYear" : "4"
           },
           "rival" : "OKSU"
@@ -1580,7 +1580,7 @@
             "baselinePrestige" : "65",
             "ratDiscipline" : "82",
             "ratOvr" : "74",
-            "name" : "Wm Fiala",
+            "name" : "Matt Wells",
             "contractYear" : "4"
           },
           "rival" : "ISU"
@@ -1626,7 +1626,7 @@
             "baselinePrestige" : "45",
             "ratDiscipline" : "57",
             "ratOvr" : "68",
-            "name" : "Shane Lightle",
+            "name" : "Neal Brown",
             "contractYear" : "4"
           },
           "rival" : "KU"
@@ -1640,7 +1640,7 @@
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "32",
-            "ratOff" : "75",
+            "ratOff" : "81",
             "cumulativePrestige" : "-14",
             "ratDef" : "88",
             "homeState" : "North Dakota",
@@ -1663,7 +1663,7 @@
       "confTeams" : [
         {
           "abbreviation" : "CLEM",
-          "prestige" : "95",
+          "prestige" : "93",
           "state" : "South Carolina",
           "name" : "Clemson",
           "headCoach" : {
@@ -1679,14 +1679,14 @@
             "baselinePrestige" : "80",
             "ratDiscipline" : "67",
             "ratOvr" : "82",
-            "name" : "Donovan Wilcox",
+            "name" : "Dabo Swiney",
             "contractYear" : "3"
           },
           "rival" : "BC"
         },
         {
           "abbreviation" : "CUSE",
-          "prestige" : "71",
+          "prestige" : "58",
           "state" : "New York",
           "name" : "Syracuse",
           "headCoach" : {
@@ -1709,7 +1709,7 @@
         },
         {
           "abbreviation" : "NCSU",
-          "prestige" : "73",
+          "prestige" : "75",
           "state" : "North Carolina",
           "name" : "NC State",
           "headCoach" : {
@@ -1732,7 +1732,7 @@
         },
         {
           "abbreviation" : "BC",
-          "prestige" : "75",
+          "prestige" : "66",
           "state" : "Maine",
           "name" : "Boston College",
           "headCoach" : {
@@ -1755,14 +1755,14 @@
         },
         {
           "abbreviation" : "FSU",
-          "prestige" : "75",
+          "prestige" : "81",
           "state" : "Florida",
           "name" : "Florida State",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "40",
-            "ratOff" : "63",
+            "ratOff" : "70",
             "cumulativePrestige" : "-5",
             "ratDef" : "72",
             "homeState" : "Florida",
@@ -1771,14 +1771,14 @@
             "baselinePrestige" : "70",
             "ratDiscipline" : "90",
             "ratOvr" : "80",
-            "name" : "Charlie Simpkins",
+            "name" : "Willie Taggert",
             "contractYear" : "3"
           },
           "rival" : "UTUL"
         },
         {
           "abbreviation" : "WAKE",
-          "prestige" : "66",
+          "prestige" : "59",
           "state" : "North Carolina",
           "name" : "Wake Forest",
           "headCoach" : {
@@ -1801,7 +1801,7 @@
         },
         {
           "abbreviation" : "LOU",
-          "prestige" : "52",
+          "prestige" : "71",
           "state" : "Kentucky",
           "name" : "Louisville",
           "headCoach" : {
@@ -1824,7 +1824,7 @@
         },
         {
           "abbreviation" : "NAVY",
-          "prestige" : "58",
+          "prestige" : "66",
           "state" : "New York",
           "name" : "Navy",
           "headCoach" : {
@@ -1847,7 +1847,7 @@
         },
         {
           "abbreviation" : "UTUL",
-          "prestige" : "55",
+          "prestige" : "46",
           "state" : "Oklahoma",
           "name" : "Tulsa",
           "headCoach" : {
@@ -1870,7 +1870,7 @@
         },
         {
           "abbreviation" : "CHAR",
-          "prestige" : "49",
+          "prestige" : "30",
           "state" : "North Carolina",
           "name" : "Charlotte",
           "headCoach" : {
@@ -1900,7 +1900,7 @@
       "confTeams" : [
         {
           "abbreviation" : "PITT",
-          "prestige" : "80",
+          "prestige" : "70",
           "state" : "Pennsylvania",
           "name" : "Pittsburgh",
           "headCoach" : {
@@ -1923,7 +1923,7 @@
         },
         {
           "abbreviation" : "GTU",
-          "prestige" : "84",
+          "prestige" : "73",
           "state" : "Georgia",
           "name" : "Georgia Tech",
           "headCoach" : {
@@ -1946,7 +1946,7 @@
         },
         {
           "abbreviation" : "VIR",
-          "prestige" : "77",
+          "prestige" : "58",
           "state" : "Virginia",
           "name" : "Virginia",
           "headCoach" : {
@@ -1969,7 +1969,7 @@
         },
         {
           "abbreviation" : "U",
-          "prestige" : "70",
+          "prestige" : "77",
           "state" : "Florida",
           "name" : "Miami",
           "headCoach" : {
@@ -1992,7 +1992,7 @@
         },
         {
           "abbreviation" : "VTU",
-          "prestige" : "71",
+          "prestige" : "73",
           "state" : "Virginia",
           "name" : "Virginia Tech",
           "headCoach" : {
@@ -2015,7 +2015,7 @@
         },
         {
           "abbreviation" : "DUKE",
-          "prestige" : "59",
+          "prestige" : "68",
           "state" : "North Carolina",
           "name" : "Duke",
           "headCoach" : {
@@ -2038,7 +2038,7 @@
         },
         {
           "abbreviation" : "UNC",
-          "prestige" : "54",
+          "prestige" : "63",
           "state" : "North Carolina",
           "name" : "North Carolina",
           "headCoach" : {
@@ -2061,7 +2061,7 @@
         },
         {
           "abbreviation" : "LTU",
-          "prestige" : "72",
+          "prestige" : "62",
           "state" : "Louisiana",
           "name" : "Louisiana Tech",
           "headCoach" : {
@@ -2084,7 +2084,7 @@
         },
         {
           "abbreviation" : "WKU",
-          "prestige" : "52",
+          "prestige" : "59",
           "state" : "Kentucky",
           "name" : "Western Kentucky",
           "headCoach" : {
@@ -2107,7 +2107,7 @@
         },
         {
           "abbreviation" : "RICE",
-          "prestige" : "48",
+          "prestige" : "36",
           "state" : "Texas",
           "name" : "Rice",
           "headCoach" : {
@@ -2137,7 +2137,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "82",
+          "prestige" : "66",
           "state" : "Florida",
           "name" : "UCF",
           "headCoach" : {
@@ -2160,7 +2160,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "67",
+          "prestige" : "59",
           "state" : "Ohio",
           "name" : "Cincinnati",
           "headCoach" : {
@@ -2183,7 +2183,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "70",
+          "prestige" : "73",
           "state" : "Tennessee",
           "name" : "Memphis",
           "headCoach" : {
@@ -2206,7 +2206,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "62",
+          "prestige" : "43",
           "state" : "Texas",
           "name" : "SMU",
           "headCoach" : {
@@ -2229,30 +2229,30 @@
         },
         {
           "abbreviation" : "HOU",
-          "prestige" : "57",
+          "prestige" : "68",
           "state" : "Texas",
           "name" : "Houston",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "47",
-            "ratOff" : "65",
+            "ratOff" : "79",
             "cumulativePrestige" : "2",
-            "ratDef" : "64",
+            "ratDef" : "69",
             "homeState" : "Alabama",
             "ratPot" : "65",
             "ratTalent" : "79",
             "baselinePrestige" : "55",
             "ratDiscipline" : "89",
             "ratOvr" : "74",
-            "name" : "Randy Colt",
+            "name" : "Dana Holgerson",
             "contractYear" : "5"
           },
           "rival" : "USF"
         },
         {
           "abbreviation" : "TEM",
-          "prestige" : "67",
+          "prestige" : "66",
           "state" : "Illinois",
           "name" : "Temple",
           "headCoach" : {
@@ -2275,7 +2275,7 @@
         },
         {
           "abbreviation" : "USF",
-          "prestige" : "61",
+          "prestige" : "63",
           "state" : "Florida",
           "name" : "South Florida",
           "headCoach" : {
@@ -2291,14 +2291,14 @@
             "baselinePrestige" : "65",
             "ratDiscipline" : "46",
             "ratOvr" : "61",
-            "name" : "Marcus Fearon",
+            "name" : "Charlie Strong",
             "contractYear" : "5"
           },
           "rival" : "HOU"
         },
         {
           "abbreviation" : "TUL",
-          "prestige" : "73",
+          "prestige" : "43",
           "state" : "Louisiana",
           "name" : "Tulane",
           "headCoach" : {
@@ -2321,7 +2321,7 @@
         },
         {
           "abbreviation" : "ECU",
-          "prestige" : "57",
+          "prestige" : "45",
           "state" : "North Carolina",
           "name" : "East Carolina",
           "headCoach" : {
@@ -2344,7 +2344,7 @@
         },
         {
           "abbreviation" : "UCON",
-          "prestige" : "59",
+          "prestige" : "34",
           "state" : "New York",
           "name" : "UConn",
           "headCoach" : {
@@ -2374,7 +2374,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UAB",
-          "prestige" : "74",
+          "prestige" : "44",
           "state" : "Alabama",
           "name" : "UAB",
           "headCoach" : {
@@ -2397,7 +2397,7 @@
         },
         {
           "abbreviation" : "UNT",
-          "prestige" : "74",
+          "prestige" : "43",
           "state" : "Texas",
           "name" : "North Texas",
           "headCoach" : {
@@ -2420,7 +2420,7 @@
         },
         {
           "abbreviation" : "MARS",
-          "prestige" : "73",
+          "prestige" : "60",
           "state" : "West Virginia",
           "name" : "Marshall",
           "headCoach" : {
@@ -2443,7 +2443,7 @@
         },
         {
           "abbreviation" : "FIU",
-          "prestige" : "74",
+          "prestige" : "44",
           "state" : "Florida",
           "name" : "Florida Int",
           "headCoach" : {
@@ -2466,7 +2466,7 @@
         },
         {
           "abbreviation" : "MTSU",
-          "prestige" : "70",
+          "prestige" : "52",
           "state" : "Tennessee",
           "name" : "Mid Tennesee",
           "headCoach" : {
@@ -2489,7 +2489,7 @@
         },
         {
           "abbreviation" : "USM",
-          "prestige" : "53",
+          "prestige" : "49",
           "state" : "Mississippi",
           "name" : "South Miss",
           "headCoach" : {
@@ -2512,7 +2512,7 @@
         },
         {
           "abbreviation" : "FAU",
-          "prestige" : "64",
+          "prestige" : "45",
           "state" : "Florida",
           "name" : "Florida Atlantic",
           "headCoach" : {
@@ -2535,7 +2535,7 @@
         },
         {
           "abbreviation" : "ODU",
-          "prestige" : "55",
+          "prestige" : "43",
           "state" : "Virginia",
           "name" : "Old Dominion",
           "headCoach" : {
@@ -2558,7 +2558,7 @@
         },
         {
           "abbreviation" : "UTSA",
-          "prestige" : "50",
+          "prestige" : "38",
           "state" : "Texas",
           "name" : "UTSA",
           "headCoach" : {
@@ -2581,7 +2581,7 @@
         },
         {
           "abbreviation" : "UTEP",
-          "prestige" : "55",
+          "prestige" : "33",
           "state" : "Texas",
           "name" : "UTEP",
           "headCoach" : {
@@ -2611,7 +2611,7 @@
       "confTeams" : [
         {
           "abbreviation" : "ND",
-          "prestige" : "86",
+          "prestige" : "82",
           "state" : "Indiana",
           "name" : "Notre Dame",
           "headCoach" : {
@@ -2634,7 +2634,7 @@
         },
         {
           "abbreviation" : "ARMY",
-          "prestige" : "66",
+          "prestige" : "55",
           "state" : "New York",
           "name" : "Army",
           "headCoach" : {
@@ -2657,7 +2657,7 @@
         },
         {
           "abbreviation" : "BYU",
-          "prestige" : "75",
+          "prestige" : "64",
           "state" : "Utah",
           "name" : "BYU",
           "headCoach" : {
@@ -2680,7 +2680,7 @@
         },
         {
           "abbreviation" : "LIB",
-          "prestige" : "72",
+          "prestige" : "30",
           "state" : "Alabama",
           "name" : "Liberty",
           "headCoach" : {
@@ -2703,7 +2703,7 @@
         },
         {
           "abbreviation" : "MASS",
-          "prestige" : "63",
+          "prestige" : "35",
           "state" : "Maine",
           "name" : "UMass",
           "headCoach" : {
@@ -2726,7 +2726,7 @@
         },
         {
           "abbreviation" : "NMSU",
-          "prestige" : "50",
+          "prestige" : "36",
           "state" : "New Mexico",
           "name" : "New Mexico State",
           "headCoach" : {
@@ -2749,7 +2749,7 @@
         },
         {
           "abbreviation" : "APPA",
-          "prestige" : "50",
+          "prestige" : "69",
           "state" : "Virginia",
           "name" : "Appalachian State",
           "headCoach" : {
@@ -2772,7 +2772,7 @@
         },
         {
           "abbreviation" : "BUFF",
-          "prestige" : "56",
+          "prestige" : "44",
           "state" : "New York",
           "name" : "Buffalo",
           "headCoach" : {
@@ -2795,7 +2795,7 @@
         },
         {
           "abbreviation" : "NIU",
-          "prestige" : "53",
+          "prestige" : "58",
           "state" : "Illinois",
           "name" : "Northen Illinois",
           "headCoach" : {
@@ -2818,7 +2818,7 @@
         },
         {
           "abbreviation" : "TOL",
-          "prestige" : "45",
+          "prestige" : "67",
           "state" : "Ohio",
           "name" : "Toledo",
           "headCoach" : {
