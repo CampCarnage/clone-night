@@ -364,7 +364,7 @@
             "startYear" : "2019",
             "age" : "50",
             "ratOff" : "68",
-            "cumulativePrestige" : "-8",
+            "cumulativePrestige" : "0",
             "ratDef" : "61",
             "homeState" : "Tennessee",
             "ratPot" : "68",
@@ -373,7 +373,7 @@
             "ratDiscipline" : "55",
             "ratOvr" : "69",
             "name" : "Lane Kiffin",
-            "contractYear" : "4"
+            "contractYear" : "3"
           },
           "rival" : "UMSU"
         },
@@ -1637,7 +1637,7 @@
           "state" : "Kansas",
           "name" : "Kansas",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "10",
             "startYear" : "2019",
             "age" : "32",
             "ratOff" : "81",
@@ -1650,7 +1650,7 @@
             "ratDiscipline" : "73",
             "ratOvr" : "72",
             "name" : "Les Miles",
-            "contractYear" : "10"
+            "contractYear" : "2"
           },
           "rival" : "WVU"
         }
