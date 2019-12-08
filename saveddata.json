@@ -23,7 +23,7 @@
             "name" : "Kirby Smart",
             "contractYear" : "0"
           },
-          "rival" : "UK"
+          "rival" : "UF"
         },
         {
           "abbreviation" : "UF",
@@ -46,7 +46,7 @@
             "name" : "Dan Mullen",
             "contractYear" : "2"
           },
-          "rival" : "MIZZ"
+          "rival" : "UGA"
         },
         {
           "abbreviation" : "UK",
@@ -69,7 +69,7 @@
             "name" : "Mark Stoops",
             "contractYear" : "3"
           },
-          "rival" : "UGA"
+          "rival" : "MIZZ"
         },
         {
           "abbreviation" : "UoSC",
@@ -115,7 +115,7 @@
             "name" : "Spencer Boetcher",
             "contractYear" : "4"
           },
-          "rival" : "UF"
+          "rival" : "UK"
         },
         {
           "abbreviation" : "VAN",
@@ -138,7 +138,7 @@
             "name" : "Prince Domek",
             "contractYear" : "0"
           },
-          "rival" : "CC"
+          "rival" : "TEN"
         },
         {
           "abbreviation" : "TEN",
@@ -161,7 +161,7 @@
             "name" : "Blayne Burgo",
             "contractYear" : "2"
           },
-          "rival" : "GEOS"
+          "rival" : "VAN"
         },
         {
           "abbreviation" : "GSU",
@@ -207,7 +207,7 @@
             "name" : "Avery Frydman",
             "contractYear" : "1"
           },
-          "rival" : "VAN"
+          "rival" : "GEOS"
         },
         {
           "abbreviation" : "GEOS",
@@ -230,7 +230,7 @@
             "name" : "Stanning Santana",
             "contractYear" : "1"
           },
-          "rival" : "TEN"
+          "rival" : "CC"
         }
       ],
       "confFullName" : "SEC East",
@@ -260,7 +260,7 @@
             "name" : "Nick Saban",
             "contractYear" : "10"
           },
-          "rival" : "LSU"
+          "rival" : "AUB"
         },
         {
           "abbreviation" : "LSU",
@@ -283,7 +283,7 @@
             "name" : "Ed Orgeron",
             "contractYear" : "4"
           },
-          "rival" : "ALA"
+          "rival" : "TAMU"
         },
         {
           "abbreviation" : "TAMU",
@@ -306,7 +306,7 @@
             "name" : "Jimbo Fisher",
             "contractYear" : "8"
           },
-          "rival" : "ARK"
+          "rival" : "LSU"
         },
         {
           "abbreviation" : "UMSU",
@@ -352,7 +352,7 @@
             "name" : "Gus Bradley",
             "contractYear" : "2"
           },
-          "rival" : "USA"
+          "rival" : "ALA"
         },
         {
           "abbreviation" : "MISS",
@@ -372,8 +372,8 @@
             "baselinePrestige" : "70",
             "ratDiscipline" : "55",
             "ratOvr" : "69",
-            "name" : "Gabe Salsbury",
-            "contractYear" : "1"
+            "name" : "Lane Kiffin",
+            "contractYear" : "4"
           },
           "rival" : "UMSU"
         },
@@ -398,7 +398,7 @@
             "name" : "TJ Abarca",
             "contractYear" : "2"
           },
-          "rival" : "TAMU"
+          "rival" : "USA"
         },
         {
           "abbreviation" : "TROY",
@@ -444,7 +444,7 @@
             "name" : "Giovanni Berlacher",
             "contractYear" : "2"
           },
-          "rival" : "AUB"
+          "rival" : "ARK"
         },
         {
           "abbreviation" : "TSU",
@@ -494,10 +494,10 @@
             "baselinePrestige" : "90",
             "ratDiscipline" : "79",
             "ratOvr" : "76",
-            "name" : "Urban Meyer",
-            "contractYear" : "0"
+            "name" : "Ryan Day",
+            "contractYear" : "5"
           },
-          "rival" : "OHIO"
+          "rival" : "UM"
         },
         {
           "abbreviation" : "UM",
@@ -520,7 +520,7 @@
             "name" : "Jim Harbaugh",
             "contractYear" : "1"
           },
-          "rival" : "MARY"
+          "rival" : "OSU"
         },
         {
           "abbreviation" : "MSU",
@@ -589,7 +589,7 @@
             "name" : "Jared Okon",
             "contractYear" : "1"
           },
-          "rival" : "UM"
+          "rival" : "OHIO"
         },
         {
           "abbreviation" : "IND",
@@ -658,7 +658,7 @@
             "name" : "Adam Fuhrman",
             "contractYear" : "0"
           },
-          "rival" : "OSU"
+          "rival" : "MARY"
         },
         {
           "abbreviation" : "AK",
@@ -672,7 +672,7 @@
             "ratOff" : "56",
             "cumulativePrestige" : "0",
             "ratDef" : "72",
-            "homeState" : "Massachusetts",
+            "homeState" : "Ohio",
             "ratPot" : "81",
             "ratTalent" : "77",
             "baselinePrestige" : "45",
@@ -800,7 +800,7 @@
             "baselinePrestige" : "90",
             "ratDiscipline" : "64",
             "ratOvr" : "73",
-            "name" : "Ben Schexnayder",
+            "name" : "Kirk Ferentz",
             "contractYear" : "2"
           },
           "rival" : "PUR"
@@ -846,7 +846,7 @@
             "baselinePrestige" : "50",
             "ratDiscipline" : "76",
             "ratOvr" : "78",
-            "name" : "Jamaal Lowe",
+            "name" : "PJ Fleck",
             "contractYear" : "3"
           },
           "rival" : "BALL"
@@ -968,7 +968,7 @@
             "baselinePrestige" : "90",
             "ratDiscipline" : "79",
             "ratOvr" : "84",
-            "name" : "Chris Peterson",
+            "name" : "Jimmy Lake",
             "contractYear" : "3"
           },
           "rival" : "STAN"
@@ -1037,7 +1037,7 @@
             "baselinePrestige" : "70",
             "ratDiscipline" : "54",
             "ratOvr" : "67",
-            "name" : "Walter Longton",
+            "name" : "Mario Cristobal",
             "contractYear" : "1"
           },
           "rival" : "HAW"
@@ -1641,7 +1641,7 @@
             "startYear" : "2019",
             "age" : "32",
             "ratOff" : "81",
-            "cumulativePrestige" : "-14",
+            "cumulativePrestige" : "14",
             "ratDef" : "88",
             "homeState" : "North Dakota",
             "ratPot" : "85",
@@ -1762,16 +1762,16 @@
             "contractLength" : "6",
             "startYear" : "2019",
             "age" : "40",
-            "ratOff" : "70",
-            "cumulativePrestige" : "-5",
-            "ratDef" : "72",
+            "ratOff" : "81",
+            "cumulativePrestige" : "5",
+            "ratDef" : "79",
             "homeState" : "Florida",
             "ratPot" : "94",
             "ratTalent" : "95",
             "baselinePrestige" : "70",
             "ratDiscipline" : "90",
             "ratOvr" : "80",
-            "name" : "Willie Taggert",
+            "name" : "Mike Norvell",
             "contractYear" : "3"
           },
           "rival" : "UTUL"
